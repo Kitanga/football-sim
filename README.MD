@@ -6,4 +6,4 @@ I wanted to get into creating simulation games. And one of my first projects in 
 
 ## Testing
 
-Just open the index.html file in a browser.
+Just open the index.html file in a browser and check the console.
